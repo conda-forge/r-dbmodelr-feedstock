@@ -1,4 +1,4 @@
-{% set version = "0.1.0" %}
+{% set version = "0.2.0" %}
 
 package:
   name: r-dbmodelr
@@ -6,8 +6,8 @@ package:
 
 source:
   url: https://github.com/LainPavot/DBModelR/archive/v{{ version }}.zip
-  md5: 27e1aa703c667f5d39ddcd38e1e728e7
-  sha256: 3126193656e11491ceaa5fe56d7f3c988c95870cba987b539d5fad2cc675317a
+  md5: 8268c1d038d03e5429cd50d339c3de13
+  sha256: 3a3269aa6e1e244f364e98b1280228533bd09b75b18ee3ed69b8b2f970e91457
 
 build:
   noarch: generic
