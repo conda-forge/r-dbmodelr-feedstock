@@ -54,3 +54,4 @@ about:
 extra:
   recipe-maintainers:
     - LainPavot
+    - conda-forge/r
