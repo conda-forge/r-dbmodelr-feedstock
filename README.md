@@ -151,5 +151,5 @@ Feedstock Maintainers
 =====================
 
 * [@LainPavot](https://github.com/LainPavot/)
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
